@@ -29,6 +29,11 @@ namespace ChatApp
                 return;
             }
 
+
+
+
+
+
             if (filterContext.HttpContext.Request.IsLocal)
             {
                 return;
